@@ -20,5 +20,6 @@ int main(void)
 {
 	branch obj;
 	obj.display;
+	obj.add;
 	return 0;
 }
