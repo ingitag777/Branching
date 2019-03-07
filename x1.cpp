@@ -17,6 +17,8 @@ class branch
        {
 	       cout<<"First no. is greater ";
        }
+       else if(a==b)
+	       cout<<"Both are same";
        else
 	       cout<<"Second no. is greater";
        }
