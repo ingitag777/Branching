@@ -5,7 +5,10 @@ class branch
 	void display()
 	{
 		cout<<"Hello my name is Ingit";
+		cout<<"Learning branching in git";
 	}
+
+	
 };
 int main()
 {
