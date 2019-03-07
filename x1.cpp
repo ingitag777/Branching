@@ -8,7 +8,18 @@ class branch
 		cout<<"Learning branching in git";
 	}
 
-	
+       void condition()
+       {
+	       int x,y
+	       cout<<"Enter two no.s";
+       cin>>x>>y;
+       if (a>b)
+       {
+	       cout<<"First no. is greater ";
+       }
+       else
+	       cout<<"Second no. is greater";
+       }
 };
 int main()
 {
